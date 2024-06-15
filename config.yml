@@ -1,0 +1,2 @@
+enabled: true # true or false
+drop-chance: 50 # number from 1 to 100 (only whole numbers!)
